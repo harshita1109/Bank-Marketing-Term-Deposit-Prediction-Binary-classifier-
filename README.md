@@ -46,6 +46,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 This model provides valuable predictive insights for targeted marketing, helping banks improve customer engagement and conversion rates.
 
 ---
-**Author:** [Your Name]  
+**Author:** Harshita Sharma  
 **Dataset Source:** UCI Machine Learning Repository  
 **License:** MIT License
